@@ -1,7 +1,7 @@
 # Chocolate-Sales
-Data Analyst Project Using Excel and Power BI
+Data Analytics Project Using Excel and Power BI
 ## Project Title
-**Sales Performance Analysis Using Excel and Power BI**
+**Sales Performance Analytics Using Excel and Power BI**
 
 ## Project Overview
 This project demonstrates the use of Microsoft Excel and Power BI for data analysis, visualization, and reporting. The goal is to analyze sales data, uncover insights, and create interactive dashboards to assist stakeholders in making informed business decisions.
